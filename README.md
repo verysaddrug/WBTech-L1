@@ -41,7 +41,17 @@
 
 [20.Разработать программу, которая переворачивает слова в строке.  Пример: «snow dog sun — sun dog snow». ](https://github.com/verysaddrug/WBTech-L1/blob/main/task20.go)
 
+[21.Реализовать паттерн «адаптер» на любом примере. ](https://github.com/verysaddrug/WBTech-L1/blob/main/task21.go)
 
+[22.Разработать программу, которая перемножает, делит, складывает, вычитает две числовых переменных a,b, значение которых > 2^20. ](https://github.com/verysaddrug/WBTech-L1/blob/main/task22.go)
+
+[23.Удалить i-ый элемент из слайса. ](https://github.com/verysaddrug/WBTech-L1/blob/main/task23.go)
+
+[24.Разработать программу нахождения расстояния между двумя точками, которые представлены в виде структуры Point с инкапсулированными параметрами x,y и конструктором. ](https://github.com/verysaddrug/WBTech-L1/blob/main/task24.go)
+
+[25.Реализовать собственную функцию sleep. ](https://github.com/verysaddrug/WBTech-L1/blob/main/task25.go)
+
+[26. Разработать программу, которая проверяет, что все символы в строке уникальные (true — если уникальные, false etc). Функция проверки должна быть регистронезависимой.](https://github.com/verysaddrug/WBTech-L1/blob/main/task26.go)
 # Theory
 1. Какой самый эффективный способ конкатенации строк?
 
