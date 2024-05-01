@@ -35,7 +35,7 @@ func task1() {
 	fmt.Printf(" Human: \n")
 	person := Human{ //
 		Name: "Andrew", // объявляем объект структуры Human
-		Age:  22}       //
+		Age:  22}
 	person.Walk()
 	person.Run()
 
